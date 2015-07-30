@@ -1,4 +1,4 @@
-## Quack - Reuse modules. [![Build Status](https://api.travis-ci.org/Autodesk/quack.svg)](https://travis-ci.org/Autodesk/quack) [![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/gitterHQ/services) [![Code Health](https://landscape.io/github/zonito/quack/master/landscape.svg?style=flat)](https://landscape.io/github/zonito/quack/master)
+## Quack - Reuse modules. [![Build Status](https://api.travis-ci.org/Autodesk/quack.svg)](https://travis-ci.org/Autodesk/quack) [![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/gitterHQ/services) [![Code Health](https://landscape.io/github/zonito/quack/master/landscape.svg?style=flat)](https://landscape.io/github/zonito/quack/master) [![Coverage Status](https://coveralls.io/repos/rajeshmaddala/quack/badge.svg?branch=master&service=github)](https://coveralls.io/github/rajeshmaddala/quack?branch=master)
 
 Insert specific module from git repository.
 
